@@ -14,7 +14,7 @@ The following steps were taken:
 6. Imputing missing data using median
 7. Data visualization using heatmap
 
-#Predicting House Prices using:
+# Predicting House Prices using:
 1. Linear Regression(MSE: 466976.5362396119)
 
 2. XGBOOST(RMSE: 518627.93277948326)
